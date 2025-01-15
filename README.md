@@ -27,3 +27,8 @@ EDA involved exploring the supplier data to answer key questions, such as
 - Is there a particular combination of material and vendor that perform poorly?
 - Is there a particular combination of Vendor and plant that performs poorly?
 - How does the same vendor and material perform across different plants?
+
+### Results/Findings
+
+The analysis results are summarized as follows:
+1. 
